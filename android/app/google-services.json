@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373712937252",
+    "project_id": "gymyuk-ff192",
+    "storage_bucket": "gymyuk-ff192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373712937252:android:7b4b15f61a0620432b93b1",
+        "android_client_info": {
+          "package_name": "com.example.gymyuk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373712937252-frog19dqv4qb848476l5nhk7b6t4ee4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgxHmthQfAs1RUQBJs6cmn7XmpoLEv_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373712937252-frog19dqv4qb848476l5nhk7b6t4ee4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
